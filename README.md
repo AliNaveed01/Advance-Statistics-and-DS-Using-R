@@ -47,7 +47,7 @@ Follow these steps to run the code on your system:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/ames-housing-analysis.git
+   git clone https://github.com/AliNaveed01/Advance-Statistics-and-DS-Using-R.git
    ```
 
 2. Install the required R packages:
