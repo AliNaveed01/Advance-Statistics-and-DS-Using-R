@@ -1,4 +1,4 @@
-# R Project: Ames Housing Data Analysis
+# R Project:  Ames Housing Data Analysis
 
 This R project analyzes the Ames Housing dataset, covering concepts such as data preprocessing, visualization, and linear regression modeling. The project is organized into different sections, each focusing on specific tasks.
 
